@@ -228,7 +228,7 @@ teams:
       - jcdrouin21
       - ryankoch13
       - thiagoromanos
-      - wadeking98
+      - wadeking98ƒfire
   - name: aries-protocol-test-suite-committers
     maintainers:
       - TelegramSam
@@ -778,6 +778,12 @@ teams:
     maintainers:
       - peterbroadhurst
       - EnriqueL8
+  - name: firefly-triage
+    maintainers:
+      - peterbroadhurst
+      - EnriqueL8
+    members:
+      - dwertent
   - name: firefly-cli-maintainers
     maintainers:
       - peterbroadhurst
